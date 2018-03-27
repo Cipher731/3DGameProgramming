@@ -56,11 +56,6 @@ public class MainScript : MonoBehaviour
         _moves = 0;
     }
 
-    // Update is called once per frame
-    private void Update()
-    {
-    }
-
     private void OnGUI()
     {
         if (_isGameOver)
